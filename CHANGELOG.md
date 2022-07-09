@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/korosuke613/demo-release-please-for-npm/compare/v1.0.1...v2.0.0) (2022-07-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* change language to japanese
+
+### Features
+
+* change language to japanese ([e06ef96](https://github.com/korosuke613/demo-release-please-for-npm/commit/e06ef96127113d133d7e7da934b9cd520bcae155))
+
 ## [1.0.1](https://github.com/korosuke613/demo-release-please-for-npm/compare/v1.0.0...v1.0.1) (2022-07-09)
 
 
