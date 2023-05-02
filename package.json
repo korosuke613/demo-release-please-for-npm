@@ -2,5 +2,8 @@
   "name": "demo-release-please-for-npm",
   "version": "2.2.0",
   "description": "Demonstration of https://github.com/googleapis/release-please for npm package.",
-  "main": "index.js"
+  "main": "index.js",
+  "repository": {
+    "url": "git+https://github.com/korosuke613/demo-release-please-for-npm"
+  }
 }
