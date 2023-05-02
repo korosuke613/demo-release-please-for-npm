@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/korosuke613/demo-release-please-for-npm/compare/v2.2.0...v3.0.0) (2023-05-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove english hello world
+
+### Features
+
+* remove english hello world ([f5c56b8](https://github.com/korosuke613/demo-release-please-for-npm/commit/f5c56b892ede59923b5336cdc4d71fde78881ca4))
+
 ## [2.2.0](https://github.com/korosuke613/demo-release-please-for-npm/compare/v2.1.0...v2.2.0) (2023-05-02)
 
 
