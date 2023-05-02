@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/korosuke613/demo-release-please-for-npm/compare/v2.0.0...v2.1.0) (2023-05-02)
+
+
+### Features
+
+* add golang hello world ([f13fa51](https://github.com/korosuke613/demo-release-please-for-npm/commit/f13fa5148569b1d26ec88a4072fd4891d52336f3))
+
 ## [2.0.0](https://github.com/korosuke613/demo-release-please-for-npm/compare/v1.0.1...v2.0.0) (2022-07-09)
 
 
