@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/korosuke613/demo-release-please-for-npm/compare/v2.1.0...v2.2.0) (2023-05-02)
+
+
+### Features
+
+* add english hello world ([b1ea3e6](https://github.com/korosuke613/demo-release-please-for-npm/commit/b1ea3e67e3a50575613ede580a05e96812a6671a))
+
 ## [2.1.0](https://github.com/korosuke613/demo-release-please-for-npm/compare/v2.0.0...v2.1.0) (2023-05-02)
 
 
